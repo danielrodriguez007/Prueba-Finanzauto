@@ -1,0 +1,26 @@
+﻿cliente,tipo_cliente,contrato_activo,sla_minutos
+Allianz Seguros,Aseguradora,Sí,60
+Sura Seguros,Aseguradora,Sí,45
+Mapfre Colombia,Aseguradora,Sí,60
+Liberty Seguros,Aseguradora,Sí,90
+HDI Seguros,Aseguradora,Sí,60
+Seguros Bolivar,Aseguradora,Sí,45
+AXA Colpatria,Aseguradora,Sí,60
+Seguros del Estado,Aseguradora,Sí,90
+Equidad Seguros,Aseguradora,Sí,60
+Mundial Seguros,Aseguradora,No,45
+SBS Seguros,Aseguradora,Sí,60
+Previsora Seguros,Aseguradora,Sí,90
+Seguros Generales,Aseguradora,Sí,60
+Cardif Seguros,Aseguradora,No,45
+Zurich Seguros,Aseguradora,Sí,60
+Banco Davivienda,Corporativo,Sí,30
+Bancolombia,Corporativo,Sí,45
+Banco de Bogotá,Corporativo,Sí,30
+BBVA Colombia,Corporativo,Sí,45
+Scotiabank Colpatria,Corporativo,Sí,30
+Grupo Éxito,Corporativo,Sí,60
+Grupo Argos,Corporativo,Sí,45
+Ecopetrol,Corporativo,Sí,60
+Avianca,Corporativo,No,45
+Grupo Nutresa,Corporativo,Sí,60

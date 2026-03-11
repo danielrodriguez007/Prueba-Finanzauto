@@ -1,0 +1,151 @@
+﻿proveedor_id,proveedor_nombre,ciudad,calificacion
+1,Ambulancias Cruz Verde Bogotá 1,Bogotá,3
+2,Grúas Rápidas Bogotá 2,Bogotá,5
+3,Mecánica Express Bogotá 3,Bogotá,4
+4,Auto Rescate Bogotá 4,Bogotá,4
+5,Auto Rescate Bogotá 5,Bogotá,3
+6,Servicios Integrales Auto Bogotá 6,Bogotá,3
+7,Ambulancias Cruz Verde Bogotá 7,Bogotá,2
+8,Baterías Express Bogotá 8,Bogotá,5
+9,Baterías Plus Bogotá 9,Bogotá,4
+10,Cerrajería 24/7 Bogotá 10,Bogotá,4
+11,Grúas Rápidas Bogotá 11,Bogotá,1
+12,Baterías Express Bogotá 12,Bogotá,5
+13,Auxilio Vial Bogotá 13,Bogotá,5
+14,Auto Rescate Bogotá 14,Bogotá,3
+15,Grúas Rápidas Bogotá 15,Bogotá,3
+16,Auxilio Vial Bogotá 16,Bogotá,3
+17,Baterías Plus Bogotá 17,Bogotá,3
+18,Auto Rescate Bogotá 18,Bogotá,4
+19,Servicios Móviles Bogotá 19,Bogotá,4
+20,Mecánica Express Bogotá 20,Bogotá,3
+21,Grúas Rápidas Bogotá 21,Bogotá,4
+22,Asistencia Vehicular Bogotá 22,Bogotá,2
+23,Baterías Plus Bogotá 23,Bogotá,3
+24,Asistencia Total Bogotá 24,Bogotá,3
+25,Mecánica Express Bogotá 25,Bogotá,4
+26,Servicios Integrales Auto Bogotá 26,Bogotá,4
+27,Auxilio Vial Bogotá 27,Bogotá,3
+28,Asistencia Total Bogotá 28,Bogotá,4
+29,Ambulancias Cruz Verde Bogotá 29,Bogotá,4
+30,Baterías Express Bogotá 30,Bogotá,1
+31,Cerrajería Express Bogotá 31,Bogotá,4
+32,Ambulancias Cruz Verde Bogotá 32,Bogotá,3
+33,Grúas El Rápido Bogotá 33,Bogotá,2
+34,Grúas El Rápido Bogotá 34,Bogotá,5
+35,Mecánica Express Bogotá 35,Bogotá,5
+36,Cerrajería 24/7 Bogotá 36,Bogotá,5
+37,Servicios Móviles Bogotá 37,Bogotá,3
+38,Ambulancias Cruz Verde Bogotá 38,Bogotá,2
+39,Cerrajería Express Bogotá 39,Bogotá,4
+40,Baterías Express Bogotá 40,Bogotá,4
+41,Servicios SOS Bogotá 41,Bogotá,2
+42,Grúas El Rápido Bogotá 42,Bogotá,4
+43,Auxilio Vial Bogotá 43,Bogotá,1
+44,Baterías Express Bogotá 44,Bogotá,5
+45,Cerrajería 24/7 Bogotá 45,Bogotá,3
+46,Auto Rescate Bogotá 46,Bogotá,4
+47,Servicios SOS Bogotá 47,Bogotá,3
+48,Baterías Express Bogotá 48,Bogotá,4
+49,Auto Rescate Bogotá 49,Bogotá,4
+50,Ambulancias Cruz Verde Bogotá 50,Bogotá,3
+51,Cerrajería Express Bogotá 51,Bogotá,5
+52,Mecánica Express Bogotá 52,Bogotá,4
+53,Servicios Móviles Bogotá 53,Bogotá,5
+54,Grúas El Rápido Bogotá 54,Bogotá,5
+55,Asistencia Vehicular Bogotá 55,Bogotá,4
+56,Grúas El Rápido Bogotá 56,Bogotá,5
+57,Grúas El Rápido Bogotá 57,Bogotá,2
+58,Auxilio Vial Bogotá 58,Bogotá,3
+59,Mecánica Express Bogotá 59,Bogotá,1
+60,Baterías Express Bogotá 60,Bogotá,3
+61,Asistencia Vehicular Medellín 1,Medellín,3
+62,Auto Rescate Medellín 2,Medellín,3
+63,Asistencia Vehicular Medellín 3,Medellín,5
+64,Servicios Móviles Medellín 4,Medellín,3
+65,Cerrajería Express Medellín 5,Medellín,3
+66,Mecánica Express Medellín 6,Medellín,4
+67,Auto Rescate Medellín 7,Medellín,2
+68,Asistencia Total Medellín 8,Medellín,5
+69,Cerrajería 24/7 Medellín 9,Medellín,2
+70,Auto Rescate Medellín 10,Medellín,5
+71,Cerrajería 24/7 Medellín 11,Medellín,4
+72,Asistencia Total Medellín 12,Medellín,3
+73,Cerrajería Express Medellín 13,Medellín,1
+74,Mecánica Express Medellín 14,Medellín,5
+75,Baterías Express Medellín 15,Medellín,4
+76,Auxilio Vial Medellín 16,Medellín,4
+77,Asistencia Total Medellín 17,Medellín,4
+78,Auxilio Vial Medellín 18,Medellín,2
+79,Grúas y Servicios Medellín 19,Medellín,3
+80,Cerrajería Express Medellín 20,Medellín,2
+81,Servicios Móviles Medellín 21,Medellín,5
+82,Servicios Integrales Auto Medellín 22,Medellín,4
+83,Mecánica Express Medellín 23,Medellín,3
+84,Servicios Integrales Auto Medellín 24,Medellín,2
+85,Auto Rescate Medellín 25,Medellín,3
+86,Mecánica Express Medellín 26,Medellín,3
+87,Baterías Plus Medellín 27,Medellín,4
+88,Cerrajería Express Medellín 28,Medellín,4
+89,Grúas El Rápido Medellín 29,Medellín,5
+90,Auto Rescate Medellín 30,Medellín,4
+91,Servicios Integrales Auto Medellín 31,Medellín,2
+92,Grúas y Servicios Medellín 32,Medellín,4
+93,Baterías Express Medellín 33,Medellín,4
+94,Cerrajería 24/7 Medellín 34,Medellín,4
+95,Ambulancias Cruz Verde Medellín 35,Medellín,4
+96,Servicios Integrales Auto Cali 1,Cali,4
+97,Asistencia Vehicular Cali 2,Cali,4
+98,Baterías Plus Cali 3,Cali,4
+99,Baterías Express Cali 4,Cali,1
+100,Cerrajería Express Cali 5,Cali,2
+101,Cerrajería Express Cali 6,Cali,1
+102,Servicios Móviles Cali 7,Cali,4
+103,Mecánica Express Cali 8,Cali,3
+104,Grúas Rápidas Cali 9,Cali,4
+105,Ambulancias Cruz Verde Cali 10,Cali,5
+106,Mecánica Express Cali 11,Cali,3
+107,Asistencia Total Cali 12,Cali,4
+108,Ambulancias Cruz Verde Cali 13,Cali,4
+109,Servicios SOS Cali 14,Cali,3
+110,Baterías Plus Cali 15,Cali,2
+111,Asistencia Vehicular Cali 16,Cali,3
+112,Servicios Móviles Cali 17,Cali,3
+113,Grúas Rápidas Cali 18,Cali,5
+114,Mecánica Express Cali 19,Cali,5
+115,Asistencia Vehicular Cali 20,Cali,4
+116,Ambulancias Cruz Verde Cali 21,Cali,5
+117,Servicios SOS Cali 22,Cali,5
+118,Auxilio Vial Cali 23,Cali,3
+119,Servicios Integrales Auto Cali 24,Cali,5
+120,Grúas El Rápido Cali 25,Cali,4
+121,Asistencia Vehicular Cali 26,Cali,5
+122,Grúas Rápidas Cali 27,Cali,5
+123,Asistencia Total Cali 28,Cali,3
+124,Grúas y Servicios Cali 29,Cali,2
+125,Grúas Rápidas Cali 30,Cali,3
+126,Ambulancias Cruz Verde Barranquilla 1,Barranquilla,4
+127,Grúas El Rápido Barranquilla 2,Barranquilla,5
+128,Servicios SOS Barranquilla 3,Barranquilla,5
+129,Auto Rescate Barranquilla 4,Barranquilla,1
+130,Cerrajería 24/7 Barranquilla 5,Barranquilla,4
+131,Auto Rescate Barranquilla 6,Barranquilla,4
+132,Baterías Express Barranquilla 7,Barranquilla,3
+133,Baterías Express Barranquilla 8,Barranquilla,2
+134,Grúas y Servicios Barranquilla 9,Barranquilla,3
+135,Baterías Express Barranquilla 10,Barranquilla,5
+136,Servicios Integrales Auto Barranquilla 11,Barranquilla,3
+137,Servicios Integrales Auto Barranquilla 12,Barranquilla,4
+138,Grúas y Servicios Barranquilla 13,Barranquilla,4
+139,Asistencia Vehicular Barranquilla 14,Barranquilla,3
+140,Mecánica Express Barranquilla 15,Barranquilla,5
+141,Baterías Plus Barranquilla 16,Barranquilla,5
+142,Auxilio Vial Barranquilla 17,Barranquilla,3
+143,Auxilio Vial Barranquilla 18,Barranquilla,4
+144,Servicios SOS Barranquilla 19,Barranquilla,3
+145,Cerrajería Express Barranquilla 20,Barranquilla,3
+146,Grúas El Rápido Barranquilla 21,Barranquilla,1
+147,Servicios Móviles Barranquilla 22,Barranquilla,4
+148,Servicios Móviles Barranquilla 23,Barranquilla,4
+149,Ambulancias Cruz Verde Barranquilla 24,Barranquilla,2
+150,Auto Rescate Barranquilla 25,Barranquilla,3
