@@ -1,0 +1,2 @@
+en el libro jupyter notebook (Analisis_Calidad_Modelo) se encuentra la limpieza de datos, eda y el modelo. 
+Despues de realiza la limpieza de datos se generan nuevos archivos .csv con el postfijo limpios que son los que alimentan la base de datos y el modelo de datos del modelo bi
